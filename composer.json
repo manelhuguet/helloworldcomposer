@@ -1,0 +1,13 @@
+{
+    "name": "manelhuguet/hello-world-composer",
+    "description": "prova",
+    "authors": [
+        {
+            "name": "Manel Huguet",
+            "email": "joanmanuelhuguet@iesebre.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.5"
+    }
+}
