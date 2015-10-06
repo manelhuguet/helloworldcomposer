@@ -1,5 +1,7 @@
 <?php
+
 require __DIR__ . "/Hello.php";
+
 /**
  * Created by PhpStorm.
  * User: manel
@@ -7,5 +9,6 @@ require __DIR__ . "/Hello.php";
  * Time: 19:32
  */
 $greetings = new Hello();
+
 $greetings ->sayHello();
 
